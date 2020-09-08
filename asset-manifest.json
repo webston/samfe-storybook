@@ -1,0 +1,14 @@
+{
+  "main.css": "./static/css/main.7c230d06.chunk.css",
+  "main.js": "./main.dbf8ebdfed1c2a5fc328.bundle.js",
+  "main.css.map": "./static/css/main.7c230d06.chunk.css.map",
+  "main.js.map": "./main.dbf8ebdfed1c2a5fc328.bundle.js.map",
+  "runtime~main.js": "./runtime~main.dbf8ebdfed1c2a5fc328.bundle.js",
+  "runtime~main.js.map": "./runtime~main.dbf8ebdfed1c2a5fc328.bundle.js.map",
+  "vendors~main.js": "./vendors~main.dbf8ebdfed1c2a5fc328.bundle.js",
+  "vendors~main.js.map": "./vendors~main.dbf8ebdfed1c2a5fc328.bundle.js.map",
+  "iframe.html": "./iframe.html",
+  "precache-manifest.53a0d1d7b207ad641a5a7193fdb273a8.js": "./precache-manifest.53a0d1d7b207ad641a5a7193fdb273a8.js",
+  "service-worker.js": "./service-worker.js",
+  "vendors~main.dbf8ebdfed1c2a5fc328.bundle.js.LICENSE.txt": "./vendors~main.dbf8ebdfed1c2a5fc328.bundle.js.LICENSE.txt"
+}
